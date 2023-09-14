@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/priyadav21/QuizApp/static/css/main.ee8ccb23.css",
+    "main.js": "/priyadav21/QuizApp/static/js/main.bc03ca02.js",
+    "index.html": "/priyadav21/QuizApp/index.html",
+    "main.ee8ccb23.css.map": "/priyadav21/QuizApp/static/css/main.ee8ccb23.css.map",
+    "main.bc03ca02.js.map": "/priyadav21/QuizApp/static/js/main.bc03ca02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee8ccb23.css",
+    "static/js/main.bc03ca02.js"
+  ]
+}
