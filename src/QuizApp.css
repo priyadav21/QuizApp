@@ -1,0 +1,67 @@
+html {
+  background-color: bisque;
+  text-align: center;
+}
+.app-header {
+  padding: 0px;
+  text-align: center;
+  background-color: rgb(249, 200, 139);
+}
+
+.app-title {
+  padding: 5px 0px 15px 0px;
+  margin: 0px;
+  color: black;
+  font-size: 50px;
+}
+
+#content-box {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.box {
+  padding: 15px;
+  height: 250px;
+  width: 60%;
+  background-color: white;
+}
+
+.button {
+  background-color: rgb(252, 161, 49);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#score {
+  margin-top: 50px;
+  align-items: center;
+}
+
+#restart-button {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  color: white;
+  padding: 10px;
+}
+
+#ques-box {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+}
+
+#ques-attempted-box {
+  display: flex;
+  justify-content: left;
+  position: relative;
+  margin-left: 15px;
+}
